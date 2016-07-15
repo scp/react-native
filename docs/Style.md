@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('LotsOfStyles', () => LotsOfStyles);
+AppRegistry.registerComponent('AwesomeProject', () => LotsOfStyles);
 ```
 
 One common pattern is to make your component accept a `style` prop which in
